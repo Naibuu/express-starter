@@ -12,7 +12,7 @@
     "engines": {
         "node": ">=16.x"
     },
-    "author": "Naibuu",
+    "author": "Alex Naibuu <contact@naibuu.dev>",
     "license": "MIT",
     "repository": {
         "type": "git",
